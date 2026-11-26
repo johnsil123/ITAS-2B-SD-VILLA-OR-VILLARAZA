@@ -116,40 +116,53 @@ Manual: `javac -d out src/Server.java src/Client.java`, then `java -cp out Serve
 ## 8. Screenshots
 
 ### Connected clients and online list
-![Connected clients](docs/01-connected-clients.png)
+![Connected clients](<img width="1366" height="768" alt="CONNECTONSCREEN" src="https://github.com/user-attachments/assets/b484cd07-cebb-430e-9280-784b83cf3458" />
+)
 
 ### Group chat
-![Group chat](docs/02-group-chat.png)
+![Group chat](<img width="1366" height="768" alt="GROUPCHAT" src="https://github.com/user-attachments/assets/d1ca48d9-c514-4094-8c0b-7e6499ea7ad0" />
+)
 
 ### Server window
-![Server window](docs/03-server-window.png)
+![Server window](<img width="1366" height="719" alt="CLIENT CONNECTION" src="https://github.com/user-attachments/assets/52005463-223e-45e4-ad67-ee99be02bc0f" />
+)
 
 ### Question Queue (original feature 1)
-![Question Queue](docs/04-question-queue.png)
+![Question Queue](<img width="1366" height="768" alt="QUESTION QUEUE" src="https://github.com/user-attachments/assets/b32ce05f-6541-47a9-a8dd-aecb28b9a987" />
+)
 
 ### Group Poll with live results (original feature 2)
-![Group Poll](docs/05-group-poll.png)
+![Group Poll](<img width="1366" height="768" alt="GROUP POLL" src="https://github.com/user-attachments/assets/cf65dcde-e025-4b06-81a6-fa7603f494c3" />
+)
 
 ### Chat continues after a user leaves
-![Chat continues](docs/06-chat-continues.png)
+![Chat continues](<img width="1363" height="721" alt="CHAT CONTINUE" src="https://github.com/user-attachments/assets/7f1ccdf6-b848-4b7d-aa21-8eafff55f991" />
+)
 
 ### Clean exit (`/exit`)
-![Clean exit](docs/07-clean-exit.png)
+![Clean exit](<img width="1366" height="721" alt="EXIT" src="https://github.com/user-attachments/assets/d5afdc64-fc09-4cab-a6ac-9cddfbba48cf" />
+()
+)
 
 ### Error handling
 Server unavailable:
 
-![Server unavailable](docs/08-server-unavailable.png)
+![Server unavailable](<img width="960" height="500" alt="ERRORHANDLING" src="https://github.com/user-attachments/assets/a7fbce60-0f94-44a4-92b7-22e42b0ffafd" />
+)
 
-![Server unavailable (2)](docs/09-server-unavailable-2.png)
+![Server unavailable (2)](<img width="959" height="473" alt="error handling" src="https://github.com/user-attachments/assets/c3d36a8c-6b1e-4168-a33b-d6420bf89f40" />
+)
 
 Invalid host, wrong port and blank IP:
 
-![Invalid host](docs/10-invalid-host.png)
+![Invalid host](<img width="1366" height="765" alt="invalid host" src="https://github.com/user-attachments/assets/1e1ebe06-07d5-4370-a4b3-ae0695f48298" />
+)
 
-![Wrong port](docs/11-wrong-port.png)
+![Wrong port](<img width="1366" height="768" alt="invald port" src="https://github.com/user-attachments/assets/e12c8ee3-b07f-4bf5-847b-9e45b43e941b" />
+)
 
-![Blank IP](docs/12-blank-ip.png)
+![Blank IP](<img width="1366" height="768" alt="blank ip" src="https://github.com/user-attachments/assets/1bb530fb-eaa7-4821-917a-8ada7e9323e4" />
+)
 
 ## 9. Test results  *(fill in "Actual" and "Status" while testing – required evidence)*
 | # | Test | Steps | Expected | Actual | Status |
