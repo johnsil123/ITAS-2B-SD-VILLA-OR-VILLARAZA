@@ -8,7 +8,7 @@ over a local network. Besides normal group chat it adds a **shared question queu
 
 | | |
 |---|---|
-| Course / Section | ITAS1 – `<Section>` |
+| Course / Section | ITAS1 – `BSIT-2B-SD` |
 | Member 1 | Villa-or – GitHub: [@mykaandreavillaor-cmyk](https://github.com/mykaandreavillaor-cmyk) |
 | Member 2 | Villaraza – GitHub: [@johnsil123](https://github.com/johnsil123) |
 | Theme | Study Circle |
@@ -190,10 +190,10 @@ Invalid host, wrong port and blank IP:
 ## 10. Contribution log
 | Date | Member | Task | Commit link |
 |---|---|---|---|
-| | Member 1 | | |
-| | Member 2 | | |
+|2026-11-25 | Villa-or (@mykaandreavillaor-cmyk) | Server: accept loop, thread per client, protocol | |
+|2026-11-25 | Villaraza (@johnsil123) | Client: Swing window, connect, Poll panels and Question Queue | |
 
 ## 11. Credits, libraries & AI assistance
 - Libraries: Java SE only (`java.net`, `java.util.concurrent`, Swing).
-- AI assistance: `<state exactly which parts were generated / assisted by an AI tool and what you changed>`.
+- AI assistance: `Claude was used in this project to help design and review parts of the code and to help organize this README.`.
 - Tutorials / references used: `<list or "none">`.
